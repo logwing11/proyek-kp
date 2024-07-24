@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "solar-panel-73244",
+  "private_key_id": "df54fbdaeb60690e7052f46d848a9ffda10a7c62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1HG0KiQPro++z\n9qERkCPy9KQHGXGCwjff/gfcJgEtEiFMoVo3iWVR9racOhORcBLQJeu7mPsIkIhZ\nZIZiygVQdsf/+hskHobtZkgJez9FXm1Zp9LIE9R9PUHCPWHzYffhPTzNoWrV/r6Z\n5DVZoX0JPHy4evNP3txMTuRFwZUeO6Uk7hrkYjNeaqWvXX88qf+Euzk9Uf1INxld\nXyrwSgddgIcbfFLb/ew8UxAzEObwYhD3eVLYCoeRHN7v6Qyv8zO+zIjnuTItlOaz\nWlMC/u4JM5w+xezZBh8bmoO+JMeQRFIKUC6K6Km7AkdsHnMicPwUvrS5+3saZyaU\nUjet821ZAgMBAAECggEAAY+8TBhiW4JwWPulvAhoijgvwVHSrMwS8gzavPbLBB/8\n8VGH0xm/eP2y3Rzrmf4WSJgtP8UyODQ/gh5HUuLJlOEk1gcgXCMLpgCETfcoiIcY\n+Dy+9YJW1LNqs1OTx6qkmx06QW8ZUKKuUSmog1kphEEL5Fr4KNaZHa1U+/LHQemJ\nKz4Q5i2rq34qzamo0lzrWVvPlBDsx4Qgr8JRRwOj/DJoHywauQtZ0GpEA7D8nnyi\nGGAmwhdK1DmrIvXhrNAoDkcC4RgcA6J5ty/yjCDLVmM7JxkEsjmTmU1CTQLAMVjg\nF9MI//jZZbnQ0HD7pAPshqeO3+UqkFUzhw+0goOKGQKBgQD6oxfUYQpjjsZTwj0n\n0moGM0qKqbHeKoTZopdgUgOTOwbMBZfVyNYoxrh1IBLDol/tf4krK6yBKQcj1FzG\nzsLNPOBMFZmJhbXkkN28UXN/Hdot9zdn68L1Mlx5n+YBc9o/zFBK1pIGhCZZDIoL\nmlKZvI888Kp+OntgJaEEvnft9QKBgQD6WxAiL5ogplpAP574qnw90rjEufJhrnZX\nGYNmd7IQ5nNnVsARraFCOShKxlhkAr1pq+gaCOzxjEN/PnzcS18U/vgZMSwplEGD\nuJ0/4hUcpHxbYEkM5vagBYkXIs/4o0VRRs/c9IHyRIZebTGiF0FPSblqBMTnG4r6\nspydL9XfVQKBgQDvkcMuUs9uWEOEPi7ciIilgpNmtUt502SG7p4JCHu4WHxnuZTn\nWQAzm7cm5VBqRSOyTOydIjLShpf3jH5d3bZgHSc8Mo0+4Vr6ren0nlpqj+tDcoE4\nSSdh3hB8hPWCP+3Ge5Hn5u9PYTOSfKTa8Fix8IVtt5EP9PCG95DQiwrxnQKBgDUo\n+PgJW5TrPea+m6b5rIAEKq+7PDh5ry83f6tWZz0ncgHTbd1THRbOxDt8enBiFI5H\nrnU4x/dSbVKrlh/A8WOn8E6JHnOFw5OQs/NIsmrukmlkvJ48vMml40JCZh7JrIJh\noumsEZu76TxLu2pLvdZ0NSbJ9HWOZ6hsHM1TxvoxAoGBAK8ziTZ7YehOXoKUq8Po\noCQwDKZKGipxQ1NwHXHsaPPw3KtzhINFYwNpBza+Z9+psmUtPG9ajpS2zwcPANhK\nJCKqV1zc3vyJYmmjXHLVKMntfgy0xr7+x4fvVr4Rjyi/PxrPTfyoY47ZyrplYmEp\n0smk2jCk1C1eHbtt47WtHXtU\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-o422l@solar-panel-73244.iam.gserviceaccount.com",
+  "client_id": "105850315279584786162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-o422l%40solar-panel-73244.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
