@@ -1,0 +1,12 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: streamlit_authenticator
+credentials:
+  usernames:
+    johndoe:
+      email: johndoe@example.com
+      name: John Doe
+      password: $2b$12$jbG8OBKorrTunEkxrer4yO7rfwmryLjEZc.zGRrJ..458Zr5hKZwy
+preauthorized:
+  emails: []

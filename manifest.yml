@@ -1,0 +1,4 @@
+applications:
+  - name: PAKAR
+    random-route: true
+    memory: 1G
